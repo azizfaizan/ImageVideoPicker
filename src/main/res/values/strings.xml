@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PicIkmageVideo</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="address">Address</string>
+    <string name="mobile_no">Mobile no</string>
+    <string name="occupation">occupation</string>
+    <string name="e_mail">E-mail</string>
+    <string name="gender">Gender</string>
+    <string name="submit">Submit</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="next_screen">Next Screen</string>
+    <string name="pick_video">Pick Video</string>
+</resources>
